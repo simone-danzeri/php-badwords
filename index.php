@@ -15,6 +15,9 @@
         <label for="badword">La parola da censurare è:</label>
         <input name="badword" type="text" placeholder="Scrivi qui il tua parola">
     </div>
+    <div>
+        <button type="submit">Invia</button>
+    </div>
   </form>
 </body>
 </html>
